@@ -1,0 +1,20 @@
+[
+  {
+    "id": "chat_head_name",
+    "demands": [
+      {
+        "content": "需求描述"
+      }
+    ],
+    "key": null
+  },
+  {
+    "id": "chat_head_avatar",
+    "demands": [
+      {
+        "content": "需求描述"
+      }
+    ],
+    "key": null
+  }
+]
