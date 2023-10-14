@@ -87242,7 +87242,7 @@ A.Lz(p,A.aC0(),q,t.PY)
 return new A.dj(new A.ac2(A.Lz(p,new A.IR(A.ag5(B.ac,t.om)),q,t.ZW)),q)}}
 A.ac2.prototype={
 $0(){var s=null,r=A.a([A.aCL(s,s,s,B.GD,B.GE,B.U,s,!1,s,!0,s,"/",!0,new A.ac1(),s,s,s,!0,!0,s,s,s,s,t.z)],t.RT),q=this.a.a
-return new A.pl("/","Flutter Demo",A.aFc(q.gl(q),A.aMI(q.gl(q),B.jL),!0),r,s)},
+return new A.pl("/","ClassIn Lite",A.aFc(q.gl(q),A.aMI(q.gl(q),B.jL),!0),r,s)},
 $S:519}
 A.ac1.prototype={
 $0(){var s=null
