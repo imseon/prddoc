@@ -88394,28 +88394,29 @@ $S:533}
 A.KP.prototype={
 I(){return"ELevel."+this.b}}
 A.a38.prototype={
-q2(){var s=0,r=A.P(t.z),q,p=this,o,n,m,l
+q2(){var s=0,r=A.P(t.z),q,p=this,o,n,m,l,k
 var $async$q2=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:n=p.a
-s=n==null?3:5
+while(true)switch(s){case 0:m=p.a
+s=m==null?3:5
 break
 case 3:s=6
 return A.R(A.q7(),$async$q2)
 case 6:b=p.a=b
 s=4
 break
-case 5:b=n
-case 4:n=b.c
-o=window
-n=o.fetch("https://prd-1256913949.cos.ap-beijing.myqcloud.com/"+("data/"+n+"/data.json"),null)
-n.toString
-m=B.aV
-l=J
+case 5:b=m
+case 4:m=b.c
+o=Date.now()
+n=window
+m=n.fetch("https://prd-1256913949.cos.ap-beijing.myqcloud.com/"+("data/"+m+"/data.json")+"?"+o,null)
+m.toString
+l=B.aV
+k=J
 s=8
-return A.R(A.fm(n,t.z),$async$q2)
+return A.R(A.fm(m,t.z),$async$q2)
 case 8:s=7
-return A.R(l.aMX(b),$async$q2)
-case 7:q=m.pJ(0,b,null)
+return A.R(k.aMX(b),$async$q2)
+case 7:q=l.pJ(0,b,null)
 s=1
 break
 case 1:return A.N(q,r)}})
