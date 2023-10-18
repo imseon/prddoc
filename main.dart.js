@@ -90971,7 +90971,7 @@ QF(){A.eL(B.Er,null,t.z).cd(new A.arz(this),t.P)},
 au(){this.QF()
 this.aE()},
 F(a){var s,r,q,p,o,n=this,m=null,l=n.e=n.d
-for(;s=n.d,l===s;){l=B.h.ca(n.a.c.a*B.h.co(1000*Date.now(),100),100)
+for(;s=n.d,l===s;){l=B.h.ca(n.a.c.a*B.h.co(Date.now(),100),100)
 n.e=l}l=n.a.c.b4(0,s)
 s=n.a
 r=n.d
