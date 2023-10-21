@@ -91292,11 +91292,12 @@ case 2:m=c
 p=J.cz(m),o=J.aj(p.gb9(m))
 case 3:if(!o.u()){s=4
 break}n=o.gI(o)
-l=A
+if(J.d(n,"version")){s=3
+break}l=A
 s=6
 return A.U(q.y_(),$async$qD)
 case 6:s=5
-return A.U(l.Ns(c+"/"+A.j(n)+".json",B.b_.Aq(p.h(m,n),null)),$async$qD)
+return A.U(l.Ns(c+A.j(n)+".json",B.b_.Aq(p.h(m,n),null)),$async$qD)
 case 5:s=3
 break
 case 4:return A.Q(null,r)}})
